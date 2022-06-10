@@ -7,6 +7,7 @@ from dwave_qbsolv import QBSolv
 import dimod
 
 
+# comment
 class BOX_QUBO:
 
     def __init__(self, init_X, init_Y, ratio):
