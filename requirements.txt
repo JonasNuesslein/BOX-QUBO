@@ -1,0 +1,6 @@
+python-sat
+mxnet
+pysat
+dwave-qbsolv
+tensorflow
+dimod
